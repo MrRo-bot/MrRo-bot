@@ -1,10 +1,13 @@
 <h1 align="center"> Hello friend! 🤖, I'm Chhavimani choubey </h1>
+
 <p align='center'>
   <img src="https://i.pinimg.com/originals/16/fe/7e/16fe7e7fb6eebb3087b6dc418748ee56.gif" width="300"/>
 </p>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mrro-bot&label=Profile%20views&color=0e75b6&style=flat" alt="mrro-bot" />
 </p>
+
 <p align='center'>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=mrro-bot" alt="mrro-bot" />
@@ -15,8 +18,7 @@
 - 📫 How to reach me **<chhavimanichoubey@outlook.in>**
 - ⚡ Fun fact **I am The Jack and Master of some**
 
-
-**Languages and Tools:**
+<h3>Languages and Tools:</h3>
 
 <p align="left">
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
@@ -33,16 +35,16 @@
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
 </p>
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mrro-bot&show_icons=true&locale=en&layout=compact" alt="mrro-bot" />
-  <img src="https://github-readme-stats.vercel.app/api?username=mrro-bot&show_icons=true&locale=en" alt="mrro-bot" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrro-bot&" alt="mrro-bot" />
-</p>
+<h3>📜Statistics:</h3>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=mrro-bot&show_icons=true&locale=en&layout=compact" alt="mrro-bot" />
+<img src="https://github-readme-stats.vercel.app/api?username=mrro-bot&show_icons=true&locale=en" alt="mrro-bot" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mrro-bot&" alt="mrro-bot" />
 
 <h3>🫱🏽‍🫲🏽Connect with Me:</h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/cm-ch/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Chhavimani%20choubey-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://codepen.io/mr-ro13ot"><img alt="Codepen" src="https://img.shields.io/badge/Codepen-MrRobot-blue?style=flat-square&logo=codepen"></a>
-<a href="mailto:chhavimanichoubey@outlook.in"><img alt="Email" src="https://img.shields.io/badge/Email-chhavimanichoubey@outlook.in-blue?style=flat-square&logo=gmail"></a>
+  <a href="https://www.linkedin.com/in/cm-ch/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Chhavimani%20choubey-blue?style=flat-square&logo=linkedin"></a>
+  <a href="https://codepen.io/mr-ro13ot"><img alt="Codepen" src="https://img.shields.io/badge/Codepen-MrRobot-blue?style=flat-square&logo=codepen"></a>
+  <a href="mailto:chhavimanichoubey@outlook.in"><img alt="Email" src="https://img.shields.io/badge/Email-chhavimanichoubey@outlook.in-blue?style=flat-square&logo=gmail"></a>
 </p>
