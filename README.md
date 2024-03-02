@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chhavimani choubey</h1>
 
-<img width="360" style="display:block; margin:0 auto; border-radius:10px" src="https://i.pinimg.com/originals/16/fe/7e/16fe7e7fb6eebb3087b6dc418748ee56.gif" alt="animated coder"/>
+<img align="center" width="360" style="border-radius:10px" src="https://i.pinimg.com/originals/16/fe/7e/16fe7e7fb6eebb3087b6dc418748ee56.gif" alt="animated coder"/>
 <h3 align="center">Hello friend!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrro-bot&label=Profile%20views&color=0e75b6&style=flat" alt="mrro-bot" /> </p>
