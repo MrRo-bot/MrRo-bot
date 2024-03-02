@@ -1,21 +1,20 @@
 <h1 align="center"> Hello friend! 🤖, I'm Chhavimani choubey </h1>
-<img style="border-radius:10px; margin:0 auto; display:block;" src="https://i.pinimg.com/originals/16/fe/7e/16fe7e7fb6eebb3087b6dc418748ee56.gif" width="360">
+<p align='center'>
+  <img src="https://i.pinimg.com/originals/16/fe/7e/16fe7e7fb6eebb3087b6dc418748ee56.gif" width="300"/>
+</p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mrro-bot&label=Profile%20views&color=0e75b6&style=flat" alt="mrro-bot" />
 </p>
-<p>
+<p align='center'>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=mrro-bot" alt="mrro-bot" />
   </a>
 </p>
 
 - 🌱 I’m currently learning **React and its various libraries and frameworks**
-
 - 📫 How to reach me **<chhavimanichoubey@outlook.in>**
-
 - ⚡ Fun fact **I am The Jack and Master of some**
 
-</p>
 
 **Languages and Tools:**
 
@@ -34,9 +33,9 @@
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
 </p>
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mrro-bot&show_icons=true&locale=en&layout=compact" alt="mrro-bot" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api?username=mrro-bot&show_icons=true&locale=en" alt="mrro-bot" /></p>
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=mrro-bot&" alt="mrro-bot" /></p>
+<p><img width="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrro-bot&show_icons=true&locale=en&layout=compact" alt="mrro-bot" /></p>
+<p><img width="150" src="https://github-readme-stats.vercel.app/api?username=mrro-bot&show_icons=true&locale=en" alt="mrro-bot" /></p>
+<p><img width="150" src="https://github-readme-streak-stats.herokuapp.com/?user=mrro-bot&" alt="mrro-bot" /></p>
 
 <h3>🫱🏽‍🫲🏽Connect with Me:</h3>
 
