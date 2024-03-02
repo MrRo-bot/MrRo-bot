@@ -34,9 +34,9 @@
 </p>
 
 <p>
-  <img width="250" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrro-bot&show_icons=true&locale=en&layout=compact" alt="mrro-bot" />
-  <img width="300" src="https://github-readme-stats.vercel.app/api?username=mrro-bot&show_icons=true&locale=en" alt="mrro-bot" />
-  <img width="350" src="https://github-readme-streak-stats.herokuapp.com/?user=mrro-bot&" alt="mrro-bot" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mrro-bot&show_icons=true&locale=en&layout=compact" alt="mrro-bot" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mrro-bot&show_icons=true&locale=en" alt="mrro-bot" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrro-bot&" alt="mrro-bot" />
 </p>
 
 <h3>🫱🏽‍🫲🏽Connect with Me:</h3>
