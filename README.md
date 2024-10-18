@@ -1,9 +1,5 @@
 <h1 align="center"> Hello friend! 🤖, I'm Chhavimani choubey </h1>
 
-<p align='center'>
-  <img src="https://i.pinimg.com/originals/16/fe/7e/16fe7e7fb6eebb3087b6dc418748ee56.gif" width="300"/>
-</p>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mrro-bot&label=Profile%20views&color=0e75b6&style=flat" alt="mrro-bot" />
 </p>
