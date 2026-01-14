@@ -4,12 +4,6 @@
   <img src="https://komarev.com/ghpvc/?username=mrro-bot&label=Profile%20views&color=0e75b6&style=flat" alt="mrro-bot" />
 </p>
 
-<p align='center'>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=mrro-bot" alt="mrro-bot" />
-  </a>
-</p>
-
 - 🌱 I’m currently learning **React and its various libraries and frameworks**
 - 📫 How to reach me **<chhavimanichoubey@outlook.in>**
 - ⚡ Fun fact **I am The Jack and Master of some**
@@ -31,12 +25,6 @@
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
 </p>
-
-<h3>📜Statistics:</h3>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=mrro-bot&show_icons=true&locale=en&layout=compact" alt="mrro-bot" />
-<img src="https://github-readme-stats.vercel.app/api?username=mrro-bot&show_icons=true&locale=en" alt="mrro-bot" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mrro-bot&" alt="mrro-bot" />
 
 <h3>🫱🏽‍🫲🏽Connect with Me:</h3>
 
